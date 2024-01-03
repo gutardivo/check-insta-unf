@@ -10,7 +10,7 @@ Open console on your browser, you can find it in developer tools in Safari, and 
 
 Paste this in console: 
 
-_NOTE: Class_ _"__ap3a" may change, if it is not working, check the first class name in username element and change it in code_
+_NOTE: Class "ap3a" may change, if it is not working, check the first class name in username element and change it in code_
 
 ```
 arr = []
