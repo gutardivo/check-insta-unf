@@ -1,12 +1,12 @@
-### Check Instagram Unfollowers
+# Check Instagram Unfollowers
 
-# First Step
+### First Step
 Open your profile and go to following, then scroll down until you load all usernames (you will know when it stops showing loading icon)
 
-# Second Step
+### Second Step
 Open console on your browser, you can find it in developer tools in Safari, and right click and inspecting element in Chrome
 
-# Third Step
+### Third Step
 
 Paste this in console: 
 
@@ -22,3 +22,5 @@ console.log(arr)
 ```
 
 Then get all the elements in JSON format and paste it in python code
+
+Repeat the same for followers and run the code
